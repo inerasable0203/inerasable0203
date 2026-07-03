@@ -119,9 +119,9 @@ Kafka, Flink, Hadoop, Hive, Airflow를 활용한 데이터 엔지니어링
 
 **차량 주행 데이터 처리를 위한 ETL 기반 데이터 파이프라인 개발**
 
-- 시뮬레이션 기반 실시간 주행 센서 데이터와 정적 데이터를 분리 저장
-- Trino를 활용해 서로 다른 저장소의 데이터를 하나의 쿼리 환경에서 분석 및 시각화
-- 차량 주행 데이터의 수집, 저장, 분석 흐름을 ETL 기반 파이프라인으로 구성
+- 시뮬레이션 기반 실시간 주행 센서 데이터와 정적 데이터 분리 저장
+- Trino를 활용해 이종 데이터베이스를 하나의 쿼리 환경에서 분석 및 시각화
+- 차량 주행 데이터의 수집, 저장, 분석 흐름을 ETL 기반 파이프라인 구성
 
 `ETL` `Data Pipeline` `Trino` `Sensor Data`
 
@@ -129,9 +129,11 @@ Kafka, Flink, Hadoop, Hive, Airflow를 활용한 데이터 엔지니어링
 
 **E2E 파인튜닝을 위한 실시간 이벤트 패턴 감지 기반 데이터 처리 플랫폼 구축**
 
-- Apache Flink의 Complex Event Processing을 활용해 급정거·추월 이벤트를 실시간으로 감지
-- 사전 정의된 이벤트 패턴을 기반으로 엣지 케이스를 자동 선별
-- 버퍼를 활용해 이벤트 전후 맥락 데이터와 센서·이미지 데이터를 연계 저장
+- Apache Flink의 Complex Event Processing을 활용해 급정거·추월 이벤트 실시간 감지
+- 사전 정의된 이벤트 패턴을 기반으로 엣지 케이스 자동 선별
+- 버퍼를 활용해 이벤트 전후 맥락을 가진 센서·이미지 데이터 연계 저장
+- **한국ITS학회 추계학술대회 우수논문상** 수상
+
 
 `Apache Flink` `Flink CEP` `Realtime Processing` `Edge Case Mining` `Sensor Data`
 
@@ -139,25 +141,25 @@ Kafka, Flink, Hadoop, Hive, Airflow를 활용한 데이터 엔지니어링
 
 #### 🏎️ 2024 HL FMA 자율주행 경진대회 - MORAI 시뮬레이션
 
-- Control 팀에서 종방향·횡방향 제어를 설계
-- Vision 팀의 LiDAR 클러스터링과 Planning 팀의 차선 변경 알고리즘 설계를 지원
-- **4등 특별상**을 수상
+- Control 팀에서 종방향·횡방향 제어 설계
+- Vision 팀의 LiDAR 클러스터링과 Planning 팀의 차선 변경 알고리즘 설계 지원
+- **4등 특별상** 수상
 
 `MORAI` `Autonomous Driving` `Control` `LiDAR Clustering` `Planning`
 
 #### 🤝 2025 스마트운행체종합프로젝트 - 시각장애인 보조 보행 모빌리티 "동행"
 
-- HMI 업무를 담당
-- STT, TTS, 의도 파악 및 의도 전달 로직을 구성
-- 마이크 입력 전처리를 통해 음성 기반 상호작용 품질을 개선
+- HMI 업무 담당
+- STT, TTS, 의도 파악 및 의도 전달 로직 구성
+- 마이크 입력 전처리를 통해 음성 기반 상호작용 품질 개선
 
 `HMI` `STT` `TTS` `Intent Recognition` `Audio Preprocessing`
 
 #### 🧠 2026 CARLA 기반 Lane Following 강화학습
 
 - Lane Following 문제를 MDP 관점에서 정의
-- 강화학습 알고리즘 선택에 따른 학습 성능과 일반화 성능을 비교
-- 시뮬레이션 환경에서 주행 정책 학습 및 평가 흐름을 정리
+- 강화학습 알고리즘 선택에 따른 학습 성능과 일반화 성능 비교
+- 시뮬레이션 환경에서 주행 정책 학습 및 평가 흐름 정리
 
 `CARLA` `Reinforcement Learning` `MDP` `Lane Following` `Simulation`
 
