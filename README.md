@@ -42,9 +42,9 @@ Recommended additions for later
 
 # 안녕하세요!
 
-### 자동차 도메인에서 오픈소스 데이터 플랫폼으로 데이터 파이프라인을 만드는 최지욱 입니다.
+### 자동차 도메인에서 데이터 파이프라인을 만드는 최지욱 입니다.
 
-Kafka, Flink, Hadoop, Hive, Airflow를 활용한 데이터 엔지니어링
+Kafka, Flink, Hadoop, Spark, Airflow를 활용한 데이터 엔지니어링
 
 </div>
 
@@ -54,7 +54,7 @@ Kafka, Flink, Hadoop, Hive, Airflow를 활용한 데이터 엔지니어링
 
 - 🐍 Python과 Java를 활용해 데이터 처리, 자동화, 파이프라인 개발을 합니다.
 - 🌊 Apache Kafka와 Apache Flink를 활용한 실시간 데이터 스트리밍에 관심이 많습니다.
-- 🗄️ Apache Hadoop, Apache Hive, Apache Airflow, PostgreSQL, HDFS를 활용해 데이터 저장/처리/워크플로우를 구성합니다.
+- 🗄️ Apache Hadoop, Apache Airflow, PostgreSQL, HDFS를 활용해 데이터 저장/처리/워크플로우를 구성합니다.
 - 🐧 Linux와 Docker 환경에서 개발하고 실행하는 것을 좋아합니다.
 - 🚗 주행 데이터 처리와 자율주행/모빌리티 시뮬레이션 프로젝트 경험이 있습니다.
 - 🌱 Kubernetes와 Apache Spark는 데이터 플랫폼 운영 관점에서 학습 중입니다.
@@ -83,7 +83,6 @@ Kafka, Flink, Hadoop, Hive, Airflow를 활용한 데이터 엔지니어링
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
   <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white" alt="Apache Flink" />
   <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Apache Hadoop" />
-  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="Apache Hive" />
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
   <img src="https://img.shields.io/badge/Apache%20Spark%20%28Studying%29-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark (Beginner)" />
 </p>
