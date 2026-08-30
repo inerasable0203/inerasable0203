@@ -17,22 +17,20 @@ Badge source: Simple Icons / Shields.io
 - Apache Hive: apachehive / FDEE21
 - Apache Airflow: apacheairflow / 017CEE
 - Apache Spark: apachespark / E25A1C
+- Trino: trino / DD00A1
 - PostgreSQL: postgresql / 4169E1
 - MySQL: mysql / 4479A1
-- Linux: linux / FCC624
-- Windows: 0078D4
-  * 최신 Simple Icons에서는 Windows/Microsoft 계열 아이콘이 제공되지 않을 수 있어 logo=windows는 fallback 용도로 사용합니다.
 - Docker: docker / 2496ED
 - Kubernetes: kubernetes / 326CE5
+- AWS: amazonwebservices / FF9900
 - Claude: claude / D97757
-- ChatGPT: 74AA9C
-  * 최신 Simple Icons에서는 ChatGPT/OpenAI 전용 slug가 제공되지 않을 수 있어 logo=openai는 fallback 용도로 사용합니다.
+- Codex: 000000
+  * Codex 배지에는 OpenAI 아이콘을 사용합니다.
 
 Recommended additions for later
 - Redis: redis / FF4438
 - Git: git / F05032
 - GitHub Actions: githubactions / 2088FF
-- AWS: amazonwebservices / FF9900
 - Terraform: terraform / 844FBA
 - FastAPI: fastapi / 009688
 - Spring Boot: springboot / 6DB33F
@@ -40,11 +38,9 @@ Recommended additions for later
 
 <div align="center">
 
-# 안녕하세요!
+# 최지욱
 
-### 자동차 도메인에서 데이터 파이프라인을 만드는 최지욱 입니다.
-
-Kafka, Flink, Hadoop, Spark, Airflow를 활용한 데이터 엔지니어링
+### Data Engineer
 
 </div>
 
@@ -52,22 +48,20 @@ Kafka, Flink, Hadoop, Spark, Airflow를 활용한 데이터 엔지니어링
 
 ## 🧑‍💻 About Me
 
-- 🐍 Python과 Java를 활용해 데이터 처리, 자동화, 파이프라인 개발을 합니다.
-- 🌊 Apache Kafka와 Apache Flink를 활용한 실시간 데이터 스트리밍에 관심이 많습니다.
-- 🗄️ Apache Hadoop, Apache Airflow, PostgreSQL, HDFS를 활용해 데이터 저장/처리/워크플로우를 구성합니다.
-- 🐧 Linux와 Docker 환경에서 개발하고 실행하는 것을 좋아합니다.
-- 🚗 주행 데이터 처리와 자율주행/모빌리티 시뮬레이션 프로젝트 경험이 있습니다.
-- 🌱 Kubernetes와 Apache Spark는 데이터 플랫폼 운영 관점에서 학습 중입니다.
+데이터의 수집·처리·저장 과정을 직접 구현하며 데이터 엔지니어링 역량을 쌓고 있습니다. Kafka·Flink를 활용한 실시간 스트리밍, Airflow 기반 워크플로우, Spark 기반 분산 처리에 관심이 있습니다. 모빌리티 데이터를 다룬 경험도 있지만, 특정 도메인보다는 안정적으로 운영할 수 있는 데이터 파이프라인을 설계하고 개선하는 데 관심이 있습니다.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### OS
+### Data Engineering
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white" alt="Apache Flink" />
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Apache Hadoop" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
 </p>
 
 ### Language
@@ -77,106 +71,84 @@ Kafka, Flink, Hadoop, Spark, Airflow를 활용한 데이터 엔지니어링
   <img src="https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java / OpenJDK" />
 </p>
 
-### Data Engineering
+### Query & Storage
 
 <p>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white" alt="Apache Flink" />
-  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Apache Hadoop" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
-  <img src="https://img.shields.io/badge/Apache%20Spark%20%28Studying%29-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark (Beginner)" />
-</p>
-
-### DB
-
-<p>
+  <img src="https://img.shields.io/badge/Trino%20%28Studying%29-DD00A1?style=for-the-badge&logo=trino&logoColor=white" alt="Trino (Studying)" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-### Container & Orchestration
+### Cloud & Infrastructure
 
 <p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes%20%28Studying%29-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes (Beginner)" />
+  <img src="https://img.shields.io/badge/Kubernetes%20%28Studying%29-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes (Studying)" />
 </p>
 
 ### AI
 
 <p>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
 </p>
 
 ---
 
 ## 📂 Projects
 
-### Data Engineering
+### Featured · Data Engineering
 
-#### 🚗 드림학기 프로젝트
+#### 🚗 드림학기 · 차량 주행 데이터 ETL 파이프라인
 
-**차량 주행 데이터 처리를 위한 ETL 기반 데이터 파이프라인 개발**
-
-- 시뮬레이션 기반 실시간 주행 센서 데이터와 정적 데이터 분리 저장
-- Trino를 활용해 이종 데이터베이스를 하나의 쿼리 환경에서 분석 및 시각화
-- 차량 주행 데이터의 수집, 저장, 분석 흐름을 ETL 기반 파이프라인 구성
+- 실시간 주행 센서 데이터와 정적 데이터를 각 특성에 맞게 분리 저장
+- Trino로 이종 데이터베이스를 연결해 단일 쿼리 환경 구성
+- 데이터 수집부터 저장·분석·시각화까지 이어지는 ETL 파이프라인 구축
 
 `ETL` `Data Pipeline` `Trino` `Sensor Data`
 
-#### 🔬 학부생 연구인턴 프로그램 RUS
+#### 🔬 RUS · 실시간 이벤트 패턴 감지 플랫폼
 
-**E2E 파인튜닝을 위한 실시간 이벤트 패턴 감지 기반 데이터 처리 플랫폼 구축**
+- Flink CEP로 급정거·추월 등 주행 이벤트를 실시간 감지
+- 이벤트 패턴으로 엣지 케이스를 선별하고 전후 센서·이미지 데이터를 연계 저장
+- E2E 파인튜닝용 데이터 처리 플랫폼 구축 · 🏆 한국ITS학회 우수논문상
 
-- Apache Flink의 Complex Event Processing을 활용해 급정거·추월 이벤트 실시간 감지
-- 사전 정의된 이벤트 패턴을 기반으로 엣지 케이스 자동 선별
-- 버퍼를 활용해 이벤트 전후 맥락을 가진 센서·이미지 데이터 연계 저장
-- **한국ITS학회 추계학술대회 우수논문상** 수상
+`Apache Flink` `Flink CEP` `Realtime Processing` `Edge Case Mining`
 
+#### 🚕 Softeer 8th · NEXTMOVE
 
-`Apache Flink` `Flink CEP` `Realtime Processing` `Edge Case Mining` `Sensor Data`
+- 택시 운행·차량·에너지 데이터를 수집해 월 2천만 건 규모의 데이터 파이프라인 구축
+- 원본(Bronze)–정제(Silver)–추천(Gold) 단계로 데이터를 나누는 메달리온 구조를 설계하고 EMR Serverless(Spark)·Airflow로 운영
+- 데이터 품질·계보·모니터링을 관리하고 운행 데이터 기반 차량 교체 추천 대시보드 구축
 
-### Autonomous Driving / Mobility
+`EMR Serverless` `Apache Spark` `Apache Airflow` `S3` `RDS`
 
-#### 🏎️ 2024 HL FMA 자율주행 경진대회 - MORAI 시뮬레이션
+### Other Experience · Autonomous Driving / Mobility
 
-- Control 팀에서 종방향·횡방향 제어 설계
-- Vision 팀의 LiDAR 클러스터링과 Planning 팀의 차선 변경 알고리즘 설계 지원
-- **4등 특별상** 수상
+#### 🏎️ 2024 HL FMA 자율주행 경진대회
 
-`MORAI` `Autonomous Driving` `Control` `LiDAR Clustering` `Planning`
+MORAI 환경에서 자율주행 제어를 설계하고 Vision·Planning 개발을 지원한 프로젝트 · 🏆 4등 특별상
 
-#### 🤝 2025 스마트운행체종합프로젝트 - 시각장애인 보조 보행 모빌리티 "동행"
+`MORAI` `Autonomous Driving` `Control`
 
-- HMI 업무 담당
-- STT, TTS, 의도 파악 및 의도 전달 로직 구성
-- 마이크 입력 전처리를 통해 음성 기반 상호작용 품질 개선
+#### 🤝 2025 시각장애인 보조 모빌리티 ‘동행’
 
-`HMI` `STT` `TTS` `Intent Recognition` `Audio Preprocessing`
+STT·TTS와 의도 인식을 활용해 음성 기반 HMI를 구축한 보행 모빌리티
 
-#### 🧠 2026 CARLA 기반 Lane Following 강화학습
+`HMI` `STT` `TTS` `Intent Recognition`
 
-- Lane Following 문제를 MDP 관점에서 정의
-- 강화학습 알고리즘 선택에 따른 학습 성능과 일반화 성능 비교
-- 시뮬레이션 환경에서 주행 정책 학습 및 평가 흐름 정리
+#### 🧠 2026 CARLA Lane Following 강화학습
 
-`CARLA` `Reinforcement Learning` `MDP` `Lane Following` `Simulation`
+Lane Following을 MDP로 정의하고 강화학습 알고리즘별 성능을 비교하는 시뮬레이션
+
+`CARLA` `Reinforcement Learning` `Lane Following`
 
 ---
 
-## 📌 Repository Focus
+## 🧩 Algorithm
 
-데이터 엔지니어링과 자율주행 관련 프로젝트를 중심으로 정리합니다.
-
-- Kafka/Flink 스트리밍 파이프라인
-- Airflow DAG
-- Docker 기반 로컬 개발 환경 구성
-- PostgreSQL/MySQL 기반 데이터 저장소 실습
-- Hadoop/Hive 기반 데이터 처리 실습
-- AI 도구를 활용한 개발 생산성 개선 및 문서화
-- 자율주행/모빌리티 시뮬레이션 프로젝트 정리
-- MORAI/CARLA 기반 자율주행 시뮬레이션 실험
-- 차량 주행 데이터 기반 ETL 및 이벤트 패턴 감지 프로젝트
+[![Solved.ac Profile](https://mazassumnida.wtf/api/generate_badge?boj=jiwooki77)](https://solved.ac/jiwooki77)
 
 ---
 
